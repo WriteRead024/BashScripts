@@ -14,7 +14,7 @@ then
     echo "Setting tab title and proceeding to start pm2 management of app ${APPNAME}"
 	REMOTINATORRESULT=$(remotinator set_tab_title -t "$TABTITLETEXT")
 else
-	echo "'terminator' not found in shell set variables."
+    echo "'terminator' not found in shell set variables."
     echo "This is not a (Gnome Fedora 39) Terminator terminal command line."
     echo "Not setting the terminal tab to '"$TABTITLETEXT"'."
     echo "Proceeding to start pm2 management of app ${APPNAME}"
