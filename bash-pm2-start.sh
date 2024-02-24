@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Rich W.
+#with GitHub Copilot
 #Feb. 2024
 
 SETOUTPUT=$(set | grep "terminator")
