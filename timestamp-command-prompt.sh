@@ -3,7 +3,7 @@
 #Rich W.
 #MSL.l
 
-# temporarily change the command prompt to include a timestamp
+# temporarily change the command prompt to the hostname and a timestamp
 
 newpromptstring="\H\D{%m/%d/%y}::\T $ "
 export PS1="\H#\D{%m/%d/%y}::\T $ "
