@@ -5,6 +5,10 @@
 # 11/25/2024
 # license: MSL.l
 
+
+echo "NOT TESTED, discontiguous with timetracker.sh"
+exit 0
+
 # Wow, that is pretty great.
 # There are a few improvements I would like to make, 
 # but first I want to test it a little.

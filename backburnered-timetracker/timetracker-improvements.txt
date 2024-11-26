@@ -1,0 +1,26 @@
+
+This would be much better as a GUI program,
+it is backburnered for now.
+
+
+buffer task names and other fields in file with delineator characters
+
+if task not already existent, add start timestamp when it is created.
+
+new tasks should be marked as active
+
+menu item to mark tasks as inactive
+
+show list of active tasks, inactive tasks, all tasks
+to then activate/deactivate or start/stop
+
+show list of all in-progress tasks
+
+output JSON with specifiable or default filename
+
+allow tasks to have one (or no) category and many tags
+
+display tasks by category
+
+display tasks by tags
+
