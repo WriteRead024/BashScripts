@@ -4,7 +4,6 @@
 #Dec. 2024
 
 SETOUTPUT=$(set | grep "terminator")
-APPNAME="<>app<>"
 TABTITLETEXT="$1"
 REMOTINATORRESULT=""
 
